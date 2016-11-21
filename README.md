@@ -1,5 +1,6 @@
 # WekaInHaskell
-Implementation of C45, KNN and Naive Bayes in Haskell
+Implementation of C45, KNN and Naive Bayes in Haskell.
+
 Done as part of CS653 (Functional Programming) at IITK
 
 ## Documentation
